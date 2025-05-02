@@ -27,7 +27,7 @@ This project performs in-depth Exploratory Data Analysis (EDA) on an automobile 
 | `MSRP`               | Manufacturer’s suggested retail price   |
 
 
-## 🧹 Data Cleaning Steps
+## Data Cleaning Steps
 
 - Renamed columns for better clarity.
 - Filled missing values using domain logic and statistical methods:
